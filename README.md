@@ -17,7 +17,7 @@ Google Api License.
 
 ## Authors
 
-* **Michael Chuang** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Michael Chuang** - *Initial work* - [Mhychuang](https://github.com/Mhychuang)
 
 
 
